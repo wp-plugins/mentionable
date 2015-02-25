@@ -1,5 +1,5 @@
 === Mentionable ===
-Contributors:      jonathanbardo, topher1kenobe, shadyvb, westonruter, X-team
+Contributors:      jonathanbardo, topher1kenobe, shadyvb, westonruter, xwp
 Tags:              tinyMCE, admin, mention
 Requires at least: 4.1
 Tested up to:      4.1
