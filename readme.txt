@@ -1,5 +1,5 @@
 === Mentionable ===
-Contributors:      jonathanbardo, topher1kenobe, shadyvb, westonruter, xwp
+Contributors:      jonathanbardo, topher1kenobe, shadyvb, westonruter, X-team
 Tags:              tinyMCE, admin, mention
 Requires at least: 4.1
 Tested up to:      4.1
@@ -12,6 +12,8 @@ Mention WordPress content with inline autocomplete inside tinyMCE.
 == Description ==
 
 This plugin brings the power of @mention inside tinyMCE. You can choose where the autocompletion gets his information from and on which custom post type this plugin is activated on. You can also create custom template replacement on the front-end based on your needs.
+
+A review of the plugin is available on [WP Tavern](http://wptavern.com/mentionable-plugin-adds-mentions-for-wordpress-content-with-inline-autocomplete).
 
 **Development of this plugin is done [on GitHub](https://github.com/x-team/wp-mentionable). Pull requests welcome. Please see [issues](https://github.com/x-team/wp-mentionable/issues) reported there before going to the plugin forum.**
 
@@ -28,6 +30,10 @@ This plugin brings the power of @mention inside tinyMCE. You can choose where th
 2. After pressing enter, the plugin replace your input with the right link and content
 
 == Changelog ==
+
+= 0.4.0 =
+* Add option to open link in a new tab
+* Change Styling to be closer with WP UI
 
 = 0.3.0 =
 * Update for 4.1 Compatibility
